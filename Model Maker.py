@@ -59,4 +59,3 @@ model.add(Dropout(0.25))
 
 #Third CNN layer
 
-mod
